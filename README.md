@@ -43,7 +43,6 @@ Abhudaya - BeScholar is a platform designed to help scholars and learners achiev
   - React.js and Next.js
   
 - **Other Tools:**
-  - JWT for authentication
   - Mongoose for MongoDB ORM
   - Git for version control
 
@@ -119,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, feel free to reach out:
 
 - **GitHub:** [gunjanghate](https://github.com/gunjanghate)
-- **Email:** your.email@example.com
+- **Email:** ghategunjan@gmail.com
 
 ```
 
